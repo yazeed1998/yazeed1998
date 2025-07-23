@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 ### I’m **Yazeed**, a Cybersecurity grad driven by curiosity and love learning and being challenged by complex problems.  
 My core mission: uncover vulnerabilities before attackers do.
 
@@ -27,6 +27,5 @@ I'm currently working on personal security projects—stay tuned!
 
 
  
-Always learning 
+Always learning 🔐
 
--->
